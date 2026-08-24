@@ -23,7 +23,7 @@ The trial version allows you to **download IMD data for free** and test the core
 
 ### Trial Limitation
 
-During the trial period, you can:
+During the trial, you can:
 
 * Download available IMD meteorological data
 * Extract data for **one station/location**
@@ -31,17 +31,21 @@ During the trial period, you can:
 
 The full version provides access to the complete functionality of the software.
 
+## Download
+
+Download the latest Windows installer from the official **GitHub Releases** page:
+
+### [⬇️ Download IMD Gridded Data Analyzer](https://github.com/IndianRemoteSensing/IMD-Gridded-Data-Analyzer/releases)
+
+Download the latest:
+
+`IMD-Gridded-Data-Analyzer-1.0.3-Setup.msi`
+
+Run the MSI installer and follow the setup wizard.
+
 ## Typical Workflow
 
 **IMD Data → Download → Extract → Process → Statistical Analysis → Trend Analysis → SWAT Preparation**
-
-## Installation
-
-Download the latest Windows installer from the **Releases** page:
-
-`IMD-Gridded-Data-Analyzer-x.x.x-Setup.msi`
-
-Run the installer and follow the setup wizard.
 
 ## Activation
 
@@ -59,7 +63,7 @@ The **Name and Email must be entered exactly as entered in the software**.
 
 Purchase the software from:
 
-**https://pages.razorpay.com/climatedataanalysis**
+**[IMD Gridded Data Analyzer](https://pages.razorpay.com/climatedataanalysis)**
 
 You can also purchase directly from the activation window.
 
@@ -127,3 +131,6 @@ Unauthorized copying, redistribution, modification, reverse engineering, or comm
 
 **Purchase:**
 https://pages.razorpay.com/climatedataanalysis
+
+**Downloads:**
+https://github.com/IndianRemoteSensing/IMD-Gridded-Data-Analyzer/releases
