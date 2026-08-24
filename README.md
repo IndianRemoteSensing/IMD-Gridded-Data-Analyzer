@@ -1,186 +1,115 @@
 # IMD Gridded Data Analyzer
 
-**Download, extract, process and analyze IMD gridded rainfall and temperature data. Calculate statistical parameters, perform Mann–Kendall and Sen’s Slope trend analysis, extract location-based climate data, create time series, and convert IMD data for SWAT modeling.**
+**Download, extract, process and analyze IMD gridded rainfall and temperature data. Perform statistical analysis, Mann–Kendall and Sen’s Slope trend analysis, extract location-based climate data, and prepare IMD data for SWAT hydrological modeling.**
 
----
+> **Independent software:** IMD Gridded Data Analyzer is not an official product of the India Meteorological Department (IMD).
 
-## Overview
+## Features
 
-**IMD Gridded Data Analyzer** is a desktop application designed to work with gridded meteorological datasets provided by the **India Meteorological Department (IMD)**.
+- Download IMD gridded rainfall, Tmin and Tmax data
+- Support for available real-time IMD gridded data
+- Extract climate data for selected latitude/longitude locations
+- Generate daily climate time series
+- Calculate statistical parameters
+- Mann–Kendall trend analysis
+- Sen’s Slope estimation
+- Prepare IMD data for SWAT
+- Include elevation values in generated SWAT files
+- Export processed data for further research and analysis
 
-The software provides tools for downloading, extracting, processing and analyzing IMD rainfall and temperature data, calculating statistical parameters, performing climate trend analysis, extracting location-based data, generating time series, and preparing data for **SWAT hydrological modeling**.
+## Typical Workflow
 
-> **Important:** IMD Gridded Data Analyzer is an independent software application and is not an official product of the India Meteorological Department (IMD).
+**IMD Data → Download → Extract → Process → Statistical Analysis → Trend Analysis → SWAT Preparation**
 
----
+## Installation
 
-## Activation and License
+Download the latest Windows installer from the **Releases** page:
 
-The software requires activation before full use.
+`IMD-Gridded-Data-Analyzer-x.x.x-Setup.msi`
 
-### Activation Requirements
+Run the installer and follow the setup wizard.
 
-After purchasing the software, open the **Activation** window and enter:
+## Activation
 
-* **Name**
-* **Email**
-* **Request Code**
+The software requires activation.
 
-### Important
+Open the **Activation** window and enter:
 
-The **Name, Email, and Request Code must be entered exactly as they appear in the IMD Gridded Data Analyzer software**.
+- **Name**
+- **Email**
+- **Request Code**
 
-Even a small difference in spelling, spaces, capitalization, or email address may prevent successful activation.
+The Name and Email must be entered **exactly as entered in the software**.
 
-### How to Purchase
+### Purchase
 
-You can purchase the software using the **purchase link provided on this page** or directly from the **Purchase** option available in the software's activation window.
+Purchase the software from:
 
-**Demo purchase link:**
-https://www.google.com
+**https://pages.razorpay.com/climatedataanalysis**
 
-> The demo link above will be replaced with the official purchase link later.
+You can also purchase directly from the activation window.
 
-### Receiving Your Activation Code
+### Activation Code
 
-After purchase, your activation code will normally be sent to the email address you provided **within 24 hours**.
+After purchase, the activation code will normally be sent **within 24 hours** from:
 
-The activation email will be sent from:
-
-**[swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com)**
+**swatmetstudio@gmail.com**
 
 Please check:
 
-* Your **Inbox**
-* **Updates** folder/tab
-* **Spam/Junk** folder
-
-Make sure that emails from **[swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com)** are not blocked or filtered.
-
-### Activation Procedure
-
-1. Open **IMD Gridded Data Analyzer**.
-2. Open the **Activation** window.
-3. Enter your **Name** exactly as entered in the software.
-4. Enter your **Email** exactly as entered in the software.
-5. Copy the generated **Request Code**.
-6. Complete the purchase using the provided purchase link or the purchase option inside the software.
-7. Wait for your activation code by email.
-8. Enter the received activation code into the Activation window.
-9. Complete activation and restart the software if requested.
-
----
-
-## Activation Support
-
-If you do not receive your activation code within 24 hours, first check your:
-
 **Inbox → Updates → Spam/Junk**
 
-If you still cannot find the activation email or experience any activation problem, contact:
+If you do not receive the activation code or have any activation problem, contact:
 
-**[swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com)**
+**swatmetstudio@gmail.com**
 
-When contacting support, include the **Name, Email, and Request Code** displayed by the software so that your activation request can be identified.
-
----
-
-## Main Capabilities
-
-IMD Gridded Data Analyzer is designed to support workflows including:
-
-* IMD gridded rainfall data download
-* IMD minimum temperature data download
-* IMD maximum temperature data download
-* Data extraction and processing
-* Location-based climate data extraction
-* Time-series generation
-* Statistical parameter calculation
-* Climate trend analysis
-* Mann–Kendall trend test
-* Sen’s Slope estimator
-* Climate data analysis for research applications
-* Conversion of IMD data into **SWAT-compatible inputs**
-* Data preparation for hydrological and climate studies
-* Include elevation values in generated SWAT files for improved hydrological model input preparation.
----
-
-## IMD Data
-
-The software works with IMD gridded meteorological datasets and provides tools for handling downloaded IMD data within a unified workflow.
-
-The application is intended to reduce the need for manually downloading, extracting, restructuring and preparing IMD data for subsequent analysis and modeling.
-
----
-
-## Data Analysis
-
-The software can be used to generate climate time series and calculate statistical parameters from extracted IMD data.
-
-Trend-analysis functionality includes:
-
-**Mann–Kendall Test**
-Used to investigate statistically significant monotonic trends in climatic time series.
-
-**Sen’s Slope Estimator**
-Used to estimate the magnitude and direction of a trend.
-
-These tools can support long-term rainfall and temperature trend investigations.
-
----
-
-## SWAT Data Preparation
-
-The application also supports conversion/preparation of IMD meteorological data for use in **SWAT hydrological modeling**.
-
-This can simplify the workflow from:
-
-**IMD Gridded Data → Extraction → Processing → Time Series → SWAT Input**
-
----
-
-## System Requirements
-
-The software is designed for **Microsoft Windows**.
-
-For recommended system requirements and supported Windows versions, refer to the software distribution information provided with your purchase.
-
----
+When contacting support, include your Name, Email and Request Code.
 
 ## Updates
 
-Future software updates may be distributed through the official software release page.
+The application may automatically check for updates approximately once every **30 days**.
 
-The application may periodically check for a newer version and allow the user to download and install an available update.
-
-Users can also manually check for updates through:
+You can also check manually:
 
 **About → Check for Updates**
 
----
+Updates are distributed through the GitHub Releases page.
 
-## Support
+## Data Availability
 
-For activation, installation, update, or software-related problems:
+Available years and variables depend on the corresponding IMD dataset and current data service.
 
-**Email:** [swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com)
+The application validates supported year ranges to prevent requests for unavailable data.
 
-Please provide a clear description of the issue and, where applicable, include the software version and relevant activation information.
+## SWAT
 
----
+The application can prepare IMD-derived meteorological data for **SWAT hydrological modeling**, including elevation information in generated SWAT files.
+
+## Research Use and Citation
+
+If you use **IMD Gridded Data Analyzer** in a research paper, thesis, dissertation, report, or other academic work, please cite the software and the relevant IMD data source.
+
+**Software citation:**
+
+> IMD Gridded Data Analyzer, Version X.X.X. Software for downloading, extracting, processing and analyzing IMD gridded meteorological data and preparing inputs for hydrological modeling.
+
+Please also cite the underlying software/library and data sources used in your workflow where applicable.
 
 ## Disclaimer
 
-IMD Gridded Data Analyzer is an independent software application developed for working with datasets provided by the India Meteorological Department.
+IMD Gridded Data Analyzer is an independent software application and is **not affiliated with, endorsed by, sponsored by, or officially supported by the India Meteorological Department (IMD)**.
 
-The software is **not an official IMD application**, and its development, distribution, licensing, and support are independent of the India Meteorological Department.
-
-Users should refer to the original IMD data source and associated documentation for authoritative information concerning IMD datasets.
-
----
+Users should refer to the original IMD source and documentation for authoritative information about the datasets.
 
 ## License
 
-This software is proprietary and is distributed under the terms of the applicable software license.
+**IMD Gridded Data Analyzer is proprietary software.**
 
-Unauthorized copying, redistribution, modification, or commercial distribution is prohibited unless explicitly permitted by the applicable license terms.
+Unauthorized copying, redistribution, modification, reverse engineering or commercial redistribution is prohibited except where permitted by the applicable license or law.
+
+## Support
+
+**Email:** swatmetstudio@gmail.com
+
+**Purchase:**  
+https://pages.razorpay.com/climatedataanalysis
