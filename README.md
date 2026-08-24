@@ -102,7 +102,7 @@ IMD Gridded Data Analyzer is designed to support workflows including:
 * Climate data analysis for research applications
 * Conversion of IMD data into **SWAT-compatible inputs**
 * Data preparation for hydrological and climate studies
-
+* Include elevation values in generated SWAT files for improved hydrological model input preparation.
 ---
 
 ## IMD Data
