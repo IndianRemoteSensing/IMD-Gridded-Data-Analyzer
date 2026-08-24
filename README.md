@@ -6,16 +6,30 @@
 
 ## Features
 
-- Download IMD gridded rainfall, Tmin and Tmax data
-- Support for available real-time IMD gridded data
-- Extract climate data for selected latitude/longitude locations
-- Generate daily climate time series
-- Calculate statistical parameters
-- Mann–Kendall trend analysis
-- Sen’s Slope estimation
-- Prepare IMD data for SWAT
-- Include elevation values in generated SWAT files
-- Export processed data for further research and analysis
+* Download IMD gridded **Rainfall, Tmin and Tmax** data
+* Support for available **real-time IMD gridded data**
+* Extract climate data for selected latitude/longitude locations
+* Generate daily climate time series
+* Calculate statistical parameters
+* Perform **Mann–Kendall trend analysis**
+* Calculate **Sen’s Slope**
+* Prepare IMD data for **SWAT hydrological modeling**
+* Include **elevation values** in generated SWAT files
+* Export processed data for further research and analysis
+
+## Free Trial
+
+The trial version allows you to **download IMD data for free** and test the core extraction functionality.
+
+### Trial Limitation
+
+During the trial period, you can:
+
+* Download available IMD meteorological data
+* Extract data for **one station/location**
+* Test the data extraction and processing workflow
+
+The full version provides access to the complete functionality of the software.
 
 ## Typical Workflow
 
@@ -31,15 +45,15 @@ Run the installer and follow the setup wizard.
 
 ## Activation
 
-The software requires activation.
+The software requires activation for full use.
 
 Open the **Activation** window and enter:
 
-- **Name**
-- **Email**
-- **Request Code**
+* **Name**
+* **Email**
+* **Request Code**
 
-The Name and Email must be entered **exactly as entered in the software**.
+The **Name and Email must be entered exactly as entered in the software**.
 
 ### Purchase
 
@@ -53,7 +67,7 @@ You can also purchase directly from the activation window.
 
 After purchase, the activation code will normally be sent **within 24 hours** from:
 
-**swatmetstudio@gmail.com**
+**[swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com)**
 
 Please check:
 
@@ -61,15 +75,15 @@ Please check:
 
 If you do not receive the activation code or have any activation problem, contact:
 
-**swatmetstudio@gmail.com**
+**[swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com)**
 
-When contacting support, include your Name, Email and Request Code.
+When contacting support, include your **Name, Email, and Request Code**.
 
 ## Updates
 
 The application may automatically check for updates approximately once every **30 days**.
 
-You can also check manually:
+You can also check manually through:
 
 **About → Check for Updates**
 
@@ -105,11 +119,11 @@ Users should refer to the original IMD source and documentation for authoritativ
 
 **IMD Gridded Data Analyzer is proprietary software.**
 
-Unauthorized copying, redistribution, modification, reverse engineering or commercial redistribution is prohibited except where permitted by the applicable license or law.
+Unauthorized copying, redistribution, modification, reverse engineering, or commercial redistribution is prohibited except where permitted by the applicable license or law.
 
 ## Support
 
-**Email:** swatmetstudio@gmail.com
+**Email:** [swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com)
 
-**Purchase:**  
+**Purchase:**
 https://pages.razorpay.com/climatedataanalysis
