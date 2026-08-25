@@ -65,7 +65,7 @@ The **Name and Email must be entered exactly as entered in the software**.
 
 ### Purchase
 
-Purchase the software from:
+Purchase the software from: Only Indian Payment method are supported, Soon we add the support for international cards. 
 
 **[IMD Gridded Data Analyzer](https://pages.razorpay.com/climatedataanalysis)**
 
