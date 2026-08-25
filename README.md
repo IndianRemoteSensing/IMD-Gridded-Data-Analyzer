@@ -9,13 +9,17 @@
 * Download IMD gridded **Rainfall, Tmin and Tmax** data
 * Support for available **real-time IMD gridded data**
 * Extract climate data for selected latitude/longitude locations
-* Generate daily climate time series
+* Extract data for region or list of locations
+* Generate daily andmonthly climate time series
 * Calculate statistical parameters
 * Perform **Mann–Kendall trend analysis**
-* Calculate **Sen’s Slope**
+* Calculate **Sen’s Slope** (Rate of climate change in Degree C/Year or mm/Year for each month
+* Identify trend of each month for all parameters 
 * Prepare IMD data for **SWAT hydrological modeling**
 * Include **elevation values** in generated SWAT files
 * Export processed data for further research and analysis
+* Generate Research ready output analysis files, Just need to do write of results.
+* Perform complex climate change analysis of all parameter in range in few minutes. 
 
 ## Free Trial
 
